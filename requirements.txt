@@ -13,7 +13,7 @@ gunicorn==20.0.4
 idna==2.7
 inflection==0.4.0
 psycopg2==2.8.5
-PyJWT==1.6.4
+PyJWT==2.4.0
 python-dotenv==0.10.3
 pytz==2020.1
 requests==2.19.1
